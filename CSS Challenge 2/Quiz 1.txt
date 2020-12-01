@@ -1,0 +1,13 @@
+Step 1: Open the folder in VS Code or your preferred text editor. 
+Step 2: Go through the CSS file and try to answer the questions to the best of your ability. 
+Step 3: After answering, uncomment the <link> tag on line 7 (in the HTML) and open the file with the LiveServer plugin to check your answers.
+
+Quiz:
+1. What color is the background? 
+
+2. What color will the li tags be?
+
+3. What color will the <a> tag nested in the li elements be? 
+
+4. What color will the p tags be? 
+

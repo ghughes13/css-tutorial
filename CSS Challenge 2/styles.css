@@ -1,0 +1,38 @@
+/* tag names < class names < ids < inline-styles < !important  */
+/* If you have trouble; just pretend your the computer and go through line by line */
+
+body {
+  background: #8182b9;
+}
+
+.div-class li {
+  color: black;
+}
+
+li {
+  color: white;
+}
+
+.div-class li a {
+  color: purple;
+}
+
+div li {
+  color: red;
+}
+
+p {
+  color: white;
+}
+
+body a {
+  color: white;
+}
+
+body p {
+  color: gold;
+}
+
+li {
+  color: green !important;
+}
